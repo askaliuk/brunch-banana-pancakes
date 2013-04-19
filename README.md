@@ -2,11 +2,6 @@
 
 Banana Pancakes is a [Brunch](http://brunch.io/) skeleton that utilizes [Bootstrap](http://twitter.github.com/bootstrap/), [Backbone](http://backbonejs.org/), [Handlebars](http://handlebarsjs.com/), and [LESS](http://lesscss.org/) / [SASS](http://sass-lang.com/). It also includes [Backbone.Mediator](https://github.com/chalbert/Backbone-Mediator) for Pub/Sub patterns.
 
-## Application example
-
- * [askalyuk/pay-periods-remaining](https://github.com/askalyuk/pay-periods-remaining)
- * [ppr-askaliuk.rhcloud.com](http://ppr-askaliuk.rhcloud.com/)
-
 ## Getting started
 
 Make sure to have [Brunch.io](http://brunch.io) installed.
